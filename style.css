@@ -34,4 +34,10 @@ canvas
     border: 5px solid white;
     border-radius: 20px;
     margin-top: 60px;
+    margin-left: 30px;
+}
+
+video
+{
+    margin-left: 370px;
 }
