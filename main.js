@@ -36,6 +36,6 @@ function draw()
 {
     background("#92B4EC");
     fill("pink");
-    text("Aarushi", 10, 100);
+    text("Aarushi", 10, 200);
     textSize(difference);
 }
